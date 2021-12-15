@@ -7,7 +7,7 @@ I hope to develop every beautiful things.✨
 
 
 
-# 💪 SKILLS
+## 💪 SKILLS
 ##### Flatforms & Languages
 
 
