@@ -1,6 +1,8 @@
 👋 Hi there!
 I'm front-end developer using javascript.📑
+
 Sometimes I design web and mobile UI/UX design.🎨
+
 
 I hope to develop every beautiful things.✨
 [![mail](https://img.shields.io/badge/hlpark0209@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](github.com/Joowon0220/TODO-List)   [![portfolio](https://img.shields.io/badge/www.hlpark0209.com-96588A?style=flat-square&logo=&logoColor=white)](github.com/Joowon0220/TODO-List)  
