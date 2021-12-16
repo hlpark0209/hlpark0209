@@ -33,4 +33,6 @@ I hope to develop every beautiful things.✨
 
 ![Hyelee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlpark0209&show_icons=true&theme=default)
 
+![Hyelee's GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username={hlpark0209}&langs_count=8
+
 
