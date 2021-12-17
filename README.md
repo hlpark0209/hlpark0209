@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 👋 Who Am I
 I'm front-end developer using javascript.📑
 
 Sometimes I design web and mobile UI/UX design.🎨
@@ -21,6 +21,9 @@ I hope to develop every beautiful things.✨
 #### Tools
 [![photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](github.com/Joowon0220/TODO-List)  [![illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)](github.com/Joowon0220/TODO-List)  [![xd](https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)](github.com/Joowon0220/TODO-List) 
  [![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](github.com/Joowon0220/TODO-List)  [![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](github.com/Joowon0220/TODO-List)  
+
+
+## 💪 Experience
 
 
 
