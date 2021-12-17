@@ -25,11 +25,11 @@ I hope to develop every beautiful things.✨
 
 
 ## 🏙 Experience
-2017.02 ~ 2017.12 🖼 Photoshopography and editing.
+2017.02 ~ 2017.12 🖼  Photoshopography and editing.
 
-2018.01. ~ 2018.12 👗 Shopping Mall web design and photo editing. 
+2018.01. ~ 2018.12 👗  Shopping Mall web design and photo editing. 
 
-2019.02. ~ 2021.11 🖥 Web & Mobile front-end develop and UI/UX design.
+2019.02. ~ 2021.11 🖥  Web & Mobile front-end develop and UI/UX design.
 
 
 
