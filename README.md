@@ -23,10 +23,15 @@ I hope to develop every beautiful things.✨
  [![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](github.com/Joowon0220/TODO-List)  [![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](github.com/Joowon0220/TODO-List)  
 
 
+
 ## 🏙 Experience
 2017.02 ~ 2017.12 🖼 Photoshopography and editing.
+
 2018.01. ~ 2018.12 👗 Shopping Mall web design and photo editing. 
+
 2019.02. ~ 2021.11 🖥 Web & Mobile front-end develop and UI/UX design.
+
+
 
 
 
