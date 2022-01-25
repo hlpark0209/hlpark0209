@@ -17,7 +17,7 @@ I hope to develop every beautiful things.✨
 ## 💪 SKILLS
 #### Flatforms & Languages
 
-[![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](github.com/Joowon0220/TODO-List)    [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](github.com/Joowon0220/TODO-List)   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)  [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](github.com/Joowon0220/TODO-List) [![typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=css3&logoColor=white)](github.com/Joowon0220/TODO-List)  
+[![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](github.com/Joowon0220/TODO-List)    [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](github.com/Joowon0220/TODO-List)   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)  [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](github.com/Joowon0220/TODO-List)  
 
 
 #### Tools
