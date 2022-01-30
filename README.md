@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+hyelee+Park;)](https://git.io/typing-svg)
 
 ## 👋 Who Am I
 I'm front-end developer using javascript.📑
