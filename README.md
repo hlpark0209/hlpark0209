@@ -2,7 +2,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+hyelee+Park;)](https://git.io/typing-svg)
  -->
  ## 안녕하세요 ! <img src="https://user-images.githubusercontent.com/39701029/151747373-979e1875-9e4c-4b22-a727-5b4180077592.gif" width="25px"> <br />
-프론트엔드와 디자인에 관심이 많은 박혜리 입니다 👩🏻‍💻
+프론트엔드와 디자인에 관심이 많은 박혜리 입니다 👩🏻‍💻  
 
 <!-- ![mail](https://img.shields.io/badge/hlpark0209@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)   [![portfolio](https://img.shields.io/badge/www.hlpark0209.com-96588A?style=flat-square&logo=&logoColor=white)](https://hlpark0209.github.io/Portfolio/)   -->
 <br />
